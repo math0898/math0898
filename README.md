@@ -1,16 +1,27 @@
+## Projects
+
+## Technologies
+
+### Linux (Experienced)
+
+Linux plays a strong role in my daily life. My main desktop computer has been running Arch for well over a year and previously ran Ubuntu for a time before that. Working with Arch, I've become very comfortable with the terminal and recovering my system from a broken state. At times there has been challenges without an adeqeut solution on Linux such as playing Starcraft II. To overcome these I've created a QEMU virutal machine running Windows 10 complete with a graphics card. The ease at which new software can be installed and updated in Linux along side with tools such as ssh and rsync I've never looked back.
+
+### Git (Experienced)
+
+### Gradle (Intermediate)
+
+### Maven (Beginner)
+
+### Spring (Beginner)
+
+### MySQL (Beginner)
+
+## Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math0898&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**math0898/math0898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java (Experienced)
 
-Here are some ideas to get you started:
+### C++ (Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### C (Beginner)
