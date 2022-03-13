@@ -6,7 +6,7 @@
 
 - Expected Graduation: Spring 2023
 
-### FIRST Tech Challenge (2012 -> 2019) - Lead Programmer
+### FIRST Tech Challenge (2013 -> 2019) - Lead Programmer
 
 ## Projects
 
