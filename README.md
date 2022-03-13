@@ -80,6 +80,10 @@ Java is my go-to langauge for just about anything that doesn't heavily depend on
 
 Of course Java has it's downfalls at which point I turn to C++. C++ contains a lot of the features I'm familar with in Java whilst having higher performance overall.
 
+### TypeScript (Beginner)
+
+TypeScript really surprised me on how much I had written with it on GitHub. Since Screeps was the only place I've used TypeScript and so I don't feel comfortable putting anything above beginner for it, however I'm fairly familiar with the type checking provided by TypeScript.
+
 ### C (Beginner)
 
 Finally when nessicary I can use C to program at a system level.
