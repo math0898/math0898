@@ -10,29 +10,29 @@
 
 ## Projects
 
-### GraphicsEngine (Jan 2022 -> Present)
+### [GraphicsEngine](https://github.com/math0898/GraphicsEngine) (Jan 2022 -> Present)
 
-- Java, Gradle, Git
+- Java, Git, Gradle
 
 I thought it'd be a fun side project to create a game engine using Java. This lead to the creation of the GraphicsEngine project in January 2022. So far I've managed to create an interesting but robust graphics system, implement audio on a basic level, and recreate the popular game pong. Currently the biggest roadblock is audio mixing. Clips can easily be played using Java but I have yet to find a line out on my system with volume control. 
 
-### Advent Of Code (Dec 2021)
+### Screeps, [1.0](https://github.com/math0898/Screeps), [2.0](https://github.com/math0898/Screeps-2.0), [3.0](https://github.com/math0898/Screeps-3.0) (Feb 2017 -> Present)
 
-- Java, C, C++
+- JavaScript, TypeScript, npm, C++
 
-For fun my friend and I started doing the (Advent Of Code)[https://adventofcode.com/] calendar in December 2021. To keep things interesting, each day I would switch languages additionally the problems presented were more about the algorithms than a feature some langauges had.
+Screeps is an online programming game I've been playing on and off since Feburary 2017 with multiple versions of code, each with their own approach to the problems proposed by Screeps. To make things easier in fall 2020 I swapped to using TypeScript and npm. Most recently this year I've swapped back to JavaScript and have been using C++ to simulate elements of the game at higher speeds.
 
 ### Freelance Minecraft Plugins (Sep 2021 -> Jan 2022)
 
 - Java, Git, Maven, Gradle
 
-During the summer of 2021 I picked up Minecraft plugin development as a hobby and was able to turn it into a form of side income during fall 2021. Projects were written in Java using Maven as a build tool, though eventually Gradle, and required extensive bug testing. During this time I also made a few public plugins, AdminUtils NameTagMaker, and RPG but couldn't ever give them the time they needed.
+During the summer of 2021 I picked up Minecraft plugin development as a hobby and was able to turn it into a form of side income during fall 2021. Projects were written in Java using Maven as a build tool, though eventually Gradle, and required extensive bug testing. During this time I also made a few public plugins ([Nametag Maker](https://github.com/math0898/Nametag-Maker), and RPG [v2.0](https://github.com/math0898/RPGFramework), [AdminUtils](https://github.com/math0898/AdminUtils)) but couldn't ever give them the time they needed.
 
-### Screeps (Feb 2017 -> Present)
+### [Advent Of Code](https://github.com/math0898/AdventOfCode) (Dec 2021)
 
-- JavaScript, TypeScript, npm
+- Java, C, C++
 
-Screeps is an online programming game I've been playing on and off since Feburary 2017 with multiple versions of code, each with their own approach to the problems proposed by Screeps. To make things easier in fall 2020 I swapped to using TypeScript and npm. Most recently this year I've swapped back to JavaScript and have been using C++ to simulate elements of the game at higher speeds. 
+For fun my friend and I started doing the [Advent Of Code](https://adventofcode.com/) calendar in December 2021. To keep things interesting, each day I would switch languages additionally the problems presented were more about the algorithms than a feature some langauges had.
 
 ### FTC Console Utility (Nov 2017 -> Jan 2018) - Solo Developer
 
