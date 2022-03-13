@@ -1,5 +1,13 @@
 ## Education
 
+### University (2019 -> Present)
+
+- Math Major, Com Sci Minor, Sociology Minor
+
+- Expected Graduation: Spring 2023
+
+### FIRST Tech Challenge (2012 -> 2019) - Lead Programmer
+
 ## Projects
 
 ## Technologies
