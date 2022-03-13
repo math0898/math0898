@@ -34,6 +34,12 @@ Again for a class project I've been working on back end and have been set up the
 
 ### Java (Experienced)
 
+Java is my go-to langauge for just about anything that doesn't heavily depend on performance. It is the langauge I have the most experience with, and through use of pattern matching, lambda references, and the built in libraries most things are fairly straight forward to implement. 
+
 ### C++ (Intermediate)
 
+Of course Java has it's downfalls at which point I turn to C++. C++ contains a lot of the features I'm familar with in Java whilst having higher performance overall.
+
 ### C (Beginner)
+
+Finally when nessicary I can use C to program at a system level.
