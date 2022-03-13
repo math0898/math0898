@@ -10,6 +10,36 @@
 
 ## Projects
 
+### GraphicsEngine (Jan 2022 -> Present)
+
+- Java, Gradle, Git
+
+I thought it'd be a fun side project to create a game engine using Java. This lead to the creation of the GraphicsEngine project in January 2022. So far I've managed to create an interesting but robust graphics system, implement audio on a basic level, and recreate the popular game pong. Currently the biggest roadblock is audio mixing. Clips can easily be played using Java but I have yet to find a line out on my system with volume control. 
+
+### Advent Of Code (Dec 2021)
+
+- Java, C, C++
+
+For fun my friend and I started doing the (Advent Of Code)[https://adventofcode.com/] calendar in December 2021. To keep things interesting, each day I would switch languages additionally the problems presented were more about the algorithms than a feature some langauges had.
+
+### Freelance Minecraft Plugins (Sep 2021 -> Jan 2022)
+
+- Java, Git, Maven, Gradle
+
+During the summer of 2021 I picked up Minecraft plugin development as a hobby and was able to turn it into a form of side income during fall 2021. Projects were written in Java using Maven as a build tool, though eventually Gradle, and required extensive bug testing. During this time I also made a few public plugins, AdminUtils NameTagMaker, and RPG but couldn't ever give them the time they needed.
+
+### Screeps (Feb 2017 -> Present)
+
+- JavaScript, TypeScript, npm
+
+Screeps is an online programming game I've been playing on and off since Feburary 2017 with multiple versions of code, each with their own approach to the problems proposed by Screeps. To make things easier in fall 2020 I swapped to using TypeScript and npm. Most recently this year I've swapped back to JavaScript and have been using C++ to simulate elements of the game at higher speeds. 
+
+### FTC Console Utility (Nov 2017 -> Jan 2018) - Solo Developer
+
+- C++
+
+For robotics, it could sometimes be difficult to pick teams for finals. To solve this issue I created a match tracking program in C++ which operated within command prompt. The program essentially functioned like a basic match database which then could be used to average team scores and performance. This project used pointers and basic classes but no overloading.
+
 ## Technologies
 
 ### Linux (Experienced)
