@@ -82,7 +82,7 @@ Of course Java has it's downfalls at which point I turn to C++. C++ contains a l
 
 ### TypeScript (Beginner)
 
-TypeScript really surprised me on how much I had written with it on GitHub. Since Screeps was the only place I've used TypeScript and so I don't feel comfortable putting anything above beginner for it, however I'm fairly familiar with the type checking provided by TypeScript.
+TypeScript really surprised me on how much I had written with it on GitHub. Since Screeps was the only place I've used TypeScript, I don't feel comfortable putting anything above beginner for it, however I'm fairly familiar with the type checking provided by TypeScript.
 
 ### C (Beginner)
 
