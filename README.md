@@ -1,16 +1,20 @@
 ## Education
 
-### University (2019 -> Present)
+### University (2019 -> 2023)
 
 - Math Major, Com Sci Minor, Sociology Minor
-
-- Expected Graduation: Spring 2023
 
 ### FIRST Tech Challenge (2013 -> 2019) - Lead Programmer
 
 - Multiple State Showings
 
 ## Projects
+
+### [AIFantasy](http://www.aifantasy.net) (Feb 2023 -> Present)
+
+- NextUI, Jenkins, Express, Git, Python
+
+A simplistiic generative AI website. I have setup a fully automated CI/CD pipeline using Jenkins and Gitea. The frontend website was built using NextUI, a fork of NextJs. The backend server is a very simple restful API built using Express and generates responses to prompts using Python.
 
 ### [GraphicsEngine](https://github.com/math0898/GraphicsEngine) (Jan 2022 -> Present)
 
@@ -46,7 +50,7 @@ For robotics, it could sometimes be difficult to pick teams for finals. To solve
 
 ### Linux (Experienced)
 
-Linux plays a strong role in my daily life. My main desktop computer has been running Arch for well over a year and previously ran Ubuntu for a time before that. Working with Arch, I've become very comfortable with the terminal and recovering my system from a broken state. At times there has been challenges without an adequate solution on Linux such as playing StarCraft II. To overcome these I've created a QEMU virtual machine running Windows 10 complete with a graphics card. The ease at which new software can be installed and updated in Linux alongside with tools such as ssh and rsync I've never looked back.
+Linux plays a strong role in my daily life. My main desktop computer has been running Arch for two years and previously ran Ubuntu for a time before that. Working with Arch, I've become very comfortable with the terminal and recovering my system from a broken state. At times there has been challenges such as playing Starcraft II. Frequently, Wine and Proton are sufficient solutions for these. The ease at which new software can be installed and updated in Linux alongside with tools such as ssh and rsync, for working with server projects, I've never looked back.
 
 ### Git (Experienced)
 
@@ -75,6 +79,10 @@ Again for a class project I've been working on back end and have been set up the
 ### Java (Experienced)
 
 Java is my go-to langauge for just about anything that doesn't heavily depend on performance. It is the langauge I have the most experience with, and through use of pattern matching, lambda references, and the built in libraries most things are fairly straight forward to implement. 
+
+### JavaScript (Experienced)
+
+JavaScript has always been a weird language. It finds use in both frontend interactive elements as well as backend servers alike. Between Screeps, AIFantasy, and funnily enough a Computer Graphics course, I've spent a lot of time working with the mess that is JavaScript.
 
 ### C++ (Intermediate)
 
