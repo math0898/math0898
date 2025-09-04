@@ -10,13 +10,13 @@
 
 ## Projects
 
-### [AIFantasy](http://www.aifantasy.net) (Feb 2023 -> Present)
+### AIFantasy (Inactive)
 
 - NextUI, Jenkins, Express, Git, Python
 
 A simplistiic generative AI website. I have setup a fully automated CI/CD pipeline using Jenkins and Gitea. The frontend website was built using NextUI, a fork of NextJs. The backend server is a very simple restful API built using Express and generates responses to prompts using Python.
 
-### [GraphicsEngine](https://github.com/math0898/GraphicsEngine) (Jan 2022 -> Present)
+### [GraphicsEngine](https://github.com/math0898/GraphicsEngine)
 
 - Java, Git, Gradle
 
@@ -28,7 +28,7 @@ I thought it'd be a fun side project to create a game engine using Java. This le
 
 Screeps is an online programming game I've been playing on and off since Feburary 2017 with multiple versions of code, each with their own approach to the problems proposed by Screeps. To make things easier in fall 2020 I swapped to using TypeScript and npm. Most recently this year I've swapped back to JavaScript and have been using C++ to simulate elements of the game at higher speeds.
 
-### Freelance Minecraft Plugins (Sep 2021 -> Jan 2022)
+### Freelance Minecraft Plugins (Sep 2021 -> Present)
 
 - Java, Git, Maven, Gradle
 
